@@ -1,6 +1,5 @@
 ---
 title: "GitHub Pages"
-editor: visual
 provider: gh-pages
 provider-token: GITHUB_TOKEN
 ---
